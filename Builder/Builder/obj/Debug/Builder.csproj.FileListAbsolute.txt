@@ -1,0 +1,7 @@
+C:\Users\Belozerov_aa\source\repos\Builder\Builder\bin\Release\Builder.xml
+C:\Users\Belozerov_aa\source\repos\Builder\Builder\bin\Release\Builder.dll
+C:\Users\Belozerov_aa\source\repos\Builder\Builder\bin\Release\Builder.pdb
+C:\Users\Belozerov_aa\source\repos\Builder\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\Belozerov_aa\source\repos\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Belozerov_aa\source\repos\Builder\Builder\obj\Debug\Builder.dll
+C:\Users\Belozerov_aa\source\repos\Builder\Builder\obj\Debug\Builder.pdb

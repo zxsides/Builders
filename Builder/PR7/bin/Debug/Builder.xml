@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Builder</name>
+    </assembly>
+    <members>
+        <member name="M:Builder.Builders.PasteWallpaper(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            "roomWidth" Ширина комнаты
+            "roomLength" Длина комнаты 
+            "roomHeight" Высота комнаты 
+            "windowWidth" Ширина окна 
+            "windowHeight" Высота окна 
+            "doorWidth" Ширина дверного проёма 
+            "doorHeight" Высота дверного проёма
+            "rollWidth" Ширина рулона обоев
+        </member>
+        <member name="M:Builder.Builders.LayLinoleum(System.Double,System.Double,System.Double)">
+            "roomWidth" Ширина комнаты
+            "roomLength" Длина комнаты 
+            "linoleumWidth" Ширина рулона линолеума 
+        </member>
+        <member name="M:Builder.Builders.CeilingPainting(System.Double,System.Double,System.Double,System.Double)">
+            "roomWidth" Ширина комнаты 
+            "roomLength" Длина комнаты
+            "paintLoss" Расход краски на 1 кв/m
+            "canValue" Объем одной банки краски
+        </member>
+    </members>
+</doc>
